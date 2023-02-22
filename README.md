@@ -1,6 +1,6 @@
 0x16. C - Simple Shell
 
-Simple shell project done by Cythia Aoko and Godfrey
+Simple shell project done by Alex Maina and Godfrey Odhiambo
 
 Resources
 
